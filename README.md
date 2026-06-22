@@ -85,6 +85,7 @@ Power BI Dashboard
 Executive Insights & Reporting
 ```
 
+![ ](hospital-quality-python.png)
 ---
 
 ## Key Features
