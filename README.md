@@ -119,7 +119,10 @@ Executive Insights & Reporting
 - Supports scalable querying and reporting
 
 Cleaned CMS datasets were transformed into an analytical data model consisting of hospital dimension data and quality/infection fact tables
+
+
 ![ ](hospital-quality-schema.png)
+
 
 ![ ](hospital-quality-sql.png)
 
