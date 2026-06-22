@@ -118,6 +118,11 @@ Executive Insights & Reporting
 - Stores cleaned datasets within PostgreSQL
 - Supports scalable querying and reporting
 
+Cleaned CMS datasets were transformed into an analytical data model consisting of hospital dimension data and quality/infection fact tables
+![ ](hospital-quality-schema.png)
+
+![ ](hospital-quality-sql.png)
+
 ### Executive Dashboard Reporting
 
 Provides interactive reporting on:
