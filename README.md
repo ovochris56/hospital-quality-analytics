@@ -4,6 +4,17 @@
 ## Dashboard Preview
 ![Hospital Quality Dashboard](hospital-quality.png)
 
+### Executive KPIs
+
+- Average CMS Star Rating
+- Average Infection SIR
+
+### Comparative Analysis
+
+- Infection SIR vs. CMS Star Rating Scatter Plot
+- State-Level Performance Matrix
+- Hospital Count by State
+- Executive Insight Summary
 
 This project demonstrates the development of an end-to-end healthcare analytics pipeline using publicly available CMS hospital quality data.
 
@@ -127,22 +138,6 @@ Provides interactive reporting on:
 - Higher-rated hospitals generally exhibited lower infection ratios
 - The regional average Infection SIR remained below the national benchmark of 1.0
 - Analysis included **126 hospitals** across Connecticut, Massachusetts, New Hampshire, Rhode Island, and Vermont
-
----
-
-## Dashboard Preview
-
-### Executive KPIs
-
-- Average CMS Star Rating
-- Average Infection SIR
-
-### Comparative Analysis
-
-- Infection SIR vs. CMS Star Rating Scatter Plot
-- State-Level Performance Matrix
-- Hospital Count by State
-- Executive Insight Summary
 
 ---
 
