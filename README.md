@@ -2,7 +2,7 @@
 
 ## Overview
 ## Dashboard Preview
-![Hospital Quality Dashboard](<img width="1454" height="818" alt="Screenshot 2026-06-21 at 1 36 37 PM" src="https://github.com/user-attachments/assets/db9ef764-7879-446a-a9d1-659299c02b5d" />)
+[Hospital Quality Dashboard](/Users/christopherfontes/Documents/hospital-quality.png)
 
 
 This project demonstrates the development of an end-to-end healthcare analytics pipeline using publicly available CMS hospital quality data.
